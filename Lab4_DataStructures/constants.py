@@ -1,0 +1,4 @@
+LAST_NAME = "Borlongan"
+STUDENT_ID = "TUPM-26-1837"
+SEED_NUM = int(STUDENT_ID[-1])
+FAVORITE_ARTIST = "Typecast"
